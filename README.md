@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Haskell and React
 - 🥅 2022 Goals: Land my first internship!
 - ⚡ Fun fact: I really like Pokémon
+- 📄 [Here's my resume](https://github.com/VBenny42/PublicResume/blob/main/VBResume.pdf)
 
 ### Connect with me:
 
