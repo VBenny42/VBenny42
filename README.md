@@ -5,8 +5,8 @@
 
 ## I'm a student and developer 😀
 
-- 🌱 I’m currently learning Haskell and React
-- 🥅 2022 Goals: Land my first internship!
+- 🌱 I’m currently learning TypeScript and React
+- 🥅 2023 Goals: Land my second internship!
 - ⚡ Fun fact: I really like Pokémon
 - 📄 [Here's my resume](https://github.com/VBenny42/PublicResume/blob/main/VB_M_Resume.pdf)
 
