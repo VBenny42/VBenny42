@@ -3,10 +3,9 @@
 <!-- [![Website](https://img.shields.io/website?label=vineshbenny.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a student and developer 😀
+## I'm a developer 😀
 
-- 🌱 I’m currently learning Rust and trying to get better at deployment
-- 🥅 2023 Goals: Land my second internship!
+- 🌱 I’m currently learning Rust
 - ⚡ Fun fact: I really like Pokémon
 - 📄 [Here's my resume](https://github.com/VBenny42/PublicResume/blob/main/VB_M_Resume.pdf)
 
